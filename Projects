@@ -1,0 +1,9 @@
+1))Implementation of AES algorithm
+An AES is the most popular security algorithm and AES encrypts sensitive data stored in databases,protecting
+it from unauthorized access even if the database is compramised.
+2)) Emotion recognition based on facial expressions
+This project focuses on Emotion detection using facial expression is implemented using Convolutional Neural
+Network (CNN),has demonstrated good performance.
+3))Radiology report generation using CT Scan images
+Radiology report generation from CT scans uses deep learning to detect and analyze abnormalities in 3D
+medical images. Extracted features are fed into vision-language models to generate descriptive reports.
